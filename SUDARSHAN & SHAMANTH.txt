@@ -6,3 +6,5 @@ Daily report - (31/12/24)
 - Logged into the Anzania environment on hyp1 and increased the memory of all the Bustisha VMs to 16GB each.
 - Created a Gmail account named ondutymedhawe@gmail.com and used it to create an official GitHub account for Medhawe. A new repository called NOC-DAILY-UPDATE was created to store all the daily updates. The instructions were shared with the WhatsApp group.
 - Supported the NOC team by working on the second shift and handling related tasks. Complete shift details have been shared in our official WhatsApp group.
+
+tested
